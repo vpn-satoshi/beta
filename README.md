@@ -1,2 +1,2 @@
 # beta
-Closed beta testing.
+At the moment, access to the beta features is by invitation only.
